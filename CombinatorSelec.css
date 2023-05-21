@@ -1,0 +1,20 @@
+/* Decendant Combinator Selector */
+div{
+    
+    color: coral;
+}
+
+div>p{
+    /* Child Combinator Selector */
+    color: blue;
+}
+
+div+p{
+    /* Adjacent Sibling */
+    color: chartreuse;
+}
+
+div~p{
+    /* General Sibling */
+    color: deeppink;
+}

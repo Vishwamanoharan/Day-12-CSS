@@ -1,0 +1,11 @@
+[href]{
+    /* Attribute */
+    color: chartreuse;
+}
+
+[href="#"]{
+    color: coral;
+}
+[class~="nav"]{
+    color: rgba(255, 0, 247, 0.653);
+}

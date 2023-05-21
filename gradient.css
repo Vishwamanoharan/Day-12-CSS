@@ -1,0 +1,7 @@
+ /* body{
+    background-image: linear-gradient(to left,rgb(255, 34, 0),rgba(211, 10, 27, 0.171),black);
+}  */
+
+ body{
+    background-image: radial-gradient(circle,white,red,black);
+} 

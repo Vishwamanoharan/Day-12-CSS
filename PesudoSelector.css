@@ -1,0 +1,55 @@
+
+ a:link{
+
+    color: green;
+
+ }
+ a:active{
+    color: cyan;
+ }
+ a:visited{
+    color: rgb(255, 0, 0);
+ }
+
+ div{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+    border: 2px solid yellow;
+
+
+ }
+
+ div:hover{
+    width: 200px;
+    height: 200px;
+    border: 6px limegreen;
+   background-color:  blueviolet;
+ }
+
+ input:focus{
+
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    font-size: x-large;
+
+
+
+ }
+
+ ul li:first-child{
+    color:darkblue
+ }
+
+ ul li:last-child{
+    color: greenyellow;
+ }
+
+ ul li:nth-child(2n-1){
+    background-color: darkmagenta;
+    color: darkgoldenrod;
+ }
+
+ section p:only-child{
+    color: khaki;
+ }

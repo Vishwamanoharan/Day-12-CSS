@@ -1,0 +1,26 @@
+h1{
+    /* Inbuilt Colours */
+    color: chartreuse;
+}
+#RGB{
+    /* RGB Format */
+    color: rgb(200,150, 50);
+}
+
+p{
+    /* RGBA Format */
+    color: rgba(191, 49, 143, 0.5);
+}
+
+.Hexa{
+    /* HexaDecimal */
+    color:#afb123;
+}
+ #HSL{
+    /* HSL */
+     color: hsl(120, 100%, 50%);
+} 
+.HSLA{
+    /* HSLA Format */
+    color: hsla(240, 100%, 25%, 0.6);
+}

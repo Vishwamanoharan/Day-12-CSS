@@ -1,0 +1,21 @@
+/* p{
+    background-color: blueviolet;
+
+    
+} */
+ body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_1280.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+} 
+/* #clip{
+    background-clip: content-box;
+
+}
+
+#clip{
+    background-origin: content-box;
+} */

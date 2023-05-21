@@ -1,0 +1,30 @@
+p::first-line{
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+p::first-letter{
+    color: crimson;
+    background-color: darkolivegreen;
+}
+p::before{
+    content: "watson";
+}
+
+p::after{
+    content: "vichu rocks the store what im is for";
+    color: cornflowerblue;
+}
+
+p::selection{
+    color: darkgoldenrod;
+    background-color: lightgreen;
+}
+
+ul li::marker{
+    color: darkcyan;
+    font-size: 30px;
+}
+
+ul li{
+    color: aqua;
+}
